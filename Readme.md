@@ -5,11 +5,7 @@ It is intended to be NOT production ready ( use at your own risk ).
 If you want a production ready release, contact Ascensio System https://www.onlyoffice.com/contacts.aspx and buy an Enterprise license to support development.
 
 
-
-
-[![License](https://img.shields.io/badge/License-GNU%20AGPL%20V3-green.svg?style=flat)](https://www.gnu.org/licenses/agpl-3.0.en.html) ![Release](https://img.shields.io/badge/Release-v7.2.0-blue.svg?style=flat)
-[![License](https://img.shields.io/badge/License-GNU%20AGPL%20V3-green.svg?style=flat)](https://www.gnu.org/licenses/agpl-3.0.en.html) ![Release](https://img.shields.io/badge/Release-v7.3.3-blue.svg?style=flat)
-[![License](https://img.shields.io/badge/License-GNU%20AGPL%20V3-green.svg?style=flat)](https://www.gnu.org/licenses/agpl-3.0.en.html) ![Release](https://img.shields.io/badge/Release-v7.4.0-blue.svg?style=flat)
+[![License](https://img.shields.io/badge/License-GNU%20AGPL%20V3-green.svg?style=flat)](https://www.gnu.org/licenses/agpl-3.0.en.html) ![Release](https://img.shields.io/badge/Release-v8.0.0-blue.svg?style=flat)
 
 ## Overview
 
@@ -43,7 +39,7 @@ ONLYOFFICE Docs includes the following editors:
 * [ONLYOFFICE Spreadsheet Editor](https://www.onlyoffice.com/spreadsheet-editor.aspx?utm_source=GitHub&utm_medium=social&utm_campaign=GitHubDesktop)
 * [ONLYOFFICE Presentation Editor](https://www.onlyoffice.com/presentation-editor.aspx?utm_source=GitHub&utm_medium=social&utm_campaign=GitHubDesktop)
 * [ONLYOFFICE Form Creator](https://www.onlyoffice.com/form-creator.aspx?utm_source=GitHub&utm_medium=social&utm_campaign=GitHubDesktop)
-* [ONLYOFFICE PDF reader and converter](https://www.onlyoffice.com/pdf-reader.aspx?utm_source=GitHub&utm_medium=social&utm_campaign=GitHubDesktop)
+* [ONLYOFFICE PDF editor, reader & converter](https://www.onlyoffice.com/pdf-reader.aspx?utm_source=GitHub&utm_medium=social&utm_campaign=GitHubDesktop)
 
 The editors allow you to create, edit, save and export text, spreadsheet and presentation documents and additionally have the features:
 
@@ -120,12 +116,18 @@ The table below will help you to make the right choice.
 | Font and paragraph formatting   | + | + | + |
 | Object insertion                | + | + | + |
 | Transitions                     | + | + | + |
+| Animations                      | + | + | + |
 | Presenter mode                  | + | + | + |
 | Notes                           | + | + | + |
 | **Form creator features** | **Community Edition** | **Enterprise Edition** | **Developer Edition** |
 | Adding form fields              | + | + | + |
 | Form preview                    | + | + | + |
 | Saving as PDF                   | + | + | + |
+| **Working with PDF**      | **Community Edition** | **Enterprise Edition** | **Developer Edition** |
+| Text annotations (highlight, underline, cross out) | + | + | + |
+| Comments                        | + | + | + |
+| Freehand drawings               | + | + | + |
+| Form filling                    | + | + | + |
 | **Security features** | **Community Edition** | **Enterprise Edition** | **Developer Edition** |
 | End-to-end encryption via Private Rooms***  | + | + | - |
 | | [Get it now](https://www.onlyoffice.com/download-docs.aspx?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDS#docs-community)  | [Start Free Trial](https://www.onlyoffice.com/download-docs.aspx?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDS#docs-enterprise)  | [Start Free Trial](https://www.onlyoffice.com/download-docs.aspx?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDS#docs-developer)  |
