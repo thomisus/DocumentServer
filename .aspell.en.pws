@@ -53,6 +53,7 @@ AutoCorrect
 autocorrection
 autofill
 autofilter
+AutoFilter
 autofilters
 autofit
 Autofit
@@ -201,6 +202,7 @@ DOCXF
 DOTX
 double
 downloadAs
+dParty
 dPc
 DPRODUCT
 drag'n'drop
@@ -353,6 +355,7 @@ IMCOSH
 IMCOT
 IMCSC
 IMCSCH
+IME
 IMPORTRANGE
 IMSEC
 IMSECH
@@ -445,6 +448,7 @@ mobileEdit
 mobileForceView
 MoveCursorToEnd
 MoveCursorToStart
+MoveToNextReviewChange
 mscorefonts
 mssql
 msSqlExtraOptions
@@ -618,6 +622,7 @@ savefile
 SaveLock
 saveUrl
 Schweiz
+screenreader
 ScrollToAbsolutePosition
 sdk
 sdkjs
@@ -698,6 +703,7 @@ statsd
 statusBar
 STDEV
 stirkeout
+strikethrough
 sr
 Sri
 STW
@@ -726,6 +732,7 @@ TextShaper
 TEXTSPLIT
 textPoweredBy
 thai
+TIF
 TINV
 TLS
 TOC
