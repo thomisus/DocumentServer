@@ -60,6 +60,7 @@ autofit
 Autofit
 AutoFormat
 autohyphenation
+autonumbering
 Autorun
 autoshape
 autoshapes
@@ -91,6 +92,7 @@ bugfix
 bugfixes
 builded
 callbackUrl
+Callout
 CanUpdateTarget
 CAs
 CDataStream
@@ -348,6 +350,7 @@ HiDPI
 HLOOKUP
 hotkey
 hotkeys
+HTM
 html
 htmlutils
 https
@@ -396,6 +399,7 @@ ISOWEEKNUM
 isSaveLock
 Italiano
 iterations
+ItextSharp
 IVAXIS
 japanese
 javascript
@@ -483,6 +487,7 @@ NIST
 nodehun
 nodejs
 NodeJS
+NoHistory
 nonprinting
 npm
 NSSW
@@ -577,6 +582,8 @@ postinstall
 postrm
 POTX
 PowerShell
+PPSX
+PPTT
 ppt
 PptFormatReader
 pptx
@@ -745,6 +752,7 @@ tablePr
 tabSelected
 TDIST
 TEXTAFTER
+TextArt
 TEXTBEFORE
 TEXTJOIN
 TextPr
